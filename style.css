@@ -1,0 +1,72 @@
+/*************************************
+*********Mobile first*****************
+**************************************/
+/*Selectors*/
+h1{
+        font-size: 20px;
+    }
+.first{
+  background-color: green;
+}
+.secound{
+  background-color: lightgreen;
+}
+/*Selectors*/
+
+/*teg*/
+#Logo{
+width: 100px;
+height: 100px;
+margin: 10px;
+float: left;
+border-radius: 60px;
+}
+
+/*teg*/
+
+table{
+ max-width:98%;
+ height:300px;
+ border-collapse: collapse;
+ text-align: center;
+}
+.product-desc{
+  text-align:center;
+}
+body{
+
+  font-family:cursive, Arial, Helvetica, sans-serif;
+  background-image:url(https://fabulae.su/images/authors/10896/foto_108659.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+nav
+{
+  font-size: 40px;
+}
+
+h1
+    {
+        font-size: 3em;
+    }
+    h3{
+      font-size: 23px;
+    }
+    /* .card{
+    background: #fc0;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+} */
+footer{
+  background-image:linear-gradient(120deg, #2980b9, #9b59b6);
+  border-left: 4px solid rgb(33, 31, 31);
+}
+th,td
+   {
+       border: 1px solid rgb(0, 0, 0);
+   }
